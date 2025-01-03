@@ -16,5 +16,5 @@ Selecione o tipo de alias como Host(s) ou Network(s), dependendo do tipo de info
 Cole as URLs ou faixas de IP extraídas da lista do Office 365.
 Salve as configurações.
 
-Manutenção das URLs
+
 As URLs e faixas de IP do Office 365 podem ser alteradas ou atualizadas periodicamente pela Microsoft. É importante verificar regularmente se há atualizações na lista e mantê-la sincronizada com a configuração do seu firewall pfSense.
