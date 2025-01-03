@@ -1,5 +1,5 @@
 URLs e Faixas de IP do Office 365 para pfSense
-As URLs e faixas de IP do Office 365 utilizadas no firewall pfSense foram extraídas do site oficial da Microsoft:
+As URLs e faixas de IP do Office 365 foram extraídas do site oficial da Microsoft:
 
 Fonte: Microsoft - URLs e Faixas de IP do Office 365
 Essas informações são cruciais para garantir que o acesso aos serviços do Office 365 seja permitido através do firewall. As URLs e faixas de IP listadas são atualizadas regularmente pela Microsoft e são fundamentais para o funcionamento adequado dos serviços, como o Exchange Online, SharePoint Online, Teams e outros componentes do Office 365.
